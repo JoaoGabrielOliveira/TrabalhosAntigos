@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade Locadora", "Atividade Locadora\Atividade Locadora.csproj", "{5F0CB0BB-4FA3-4F91-94EE-249BCB13767F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0CB0BB-4FA3-4F91-94EE-249BCB13767F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0CB0BB-4FA3-4F91-94EE-249BCB13767F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0CB0BB-4FA3-4F91-94EE-249BCB13767F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0CB0BB-4FA3-4F91-94EE-249BCB13767F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEF3E2E-3E26-48B1-9C86-E69710EF9B55}
+	EndGlobalSection
+EndGlobal
